@@ -1,0 +1,51 @@
+{
+  "name": "Zoro-md",
+  "version": "1.0.0",
+  "description": "WhatsApp BOT by Guru322",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guru",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-phonenumber": "^5.5.0",
+    "axios": "^1.3.6",
+    "chalk": "^5.2.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "lowdb": "^6.0.0",
+    "moment-timezone": "^0.5.43",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1",
+    "puppeteer": "^19.11.1",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "syntax-error": "^1.4.0",
+    "url": "^0.11.0",
+    "whatsapp-web.js": "^1.19.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guru322/Zoro-md.git"
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "bot-api",
+    "whatsapp",
+    "whatsapp-web",
+    "whatsapp-bot",
+    "whatsapp-api",
+    "whatsapp-web-api",
+    "whatsapp-web-js",
+    "Zorobot"
+  ],
+  "bugs": {
+    "url": "https://github.com/Guru322/Zoro-md/issues"
+  },
+  "homepage": "https://github.com/Guru322/Zoro-md#readme"
+}
