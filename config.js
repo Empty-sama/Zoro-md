@@ -6,14 +6,9 @@ global.owner = {
 }
 
 global.bot = {
-	name: 'SHIKIMORI',
-	name2: 'ShikiBOT',
-	name3: '© shikiBOT',
+	name: 'Zoro-md',
+	name2: 'ZoroBOT',
+	name3: 'Zoro',
 	number: '19152999993',
 	numberId: '19152999993@c.us'
-}
-
-global.api = {
-	openai: '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',
-	zenz: 'null'
 }
